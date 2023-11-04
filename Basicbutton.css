@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #b9b7c2;
+    border: 2px solid white;
+}
+.btn{
+    padding: 30px 60px;
+    background: #2ac2e8;
+    border-radius: 8px;
+    border: 2px solid white;
+    box-shadow: 0 0 20px #e82a63;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
